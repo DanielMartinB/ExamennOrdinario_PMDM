@@ -1,0 +1,31 @@
+{
+
+ "actividades": [
+
+  {
+
+   "codigo": 1,
+
+   "nombre": "Boby Balance"
+
+  },
+
+  {
+
+   "codigo": 2,
+
+   "nombre": "Crossfit"
+
+  },
+
+  {
+
+   "codigo": 3,
+
+   "nombre": "Baile Latino"
+
+  }
+
+ ]
+
+}
